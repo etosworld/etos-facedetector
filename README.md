@@ -1,3 +1,8 @@
+
+### NEW Low Poly Face Generator Demo Online  
+ 
+Our Face Detector Based Low Poly Face Generator is online. Visit [here](http://polyface.etos.world) and enjoy!
+
 ### etos-facedetector
 
 - Simple and Effective Face Detector for [ETOS](https://etos.world) ecosystem.
