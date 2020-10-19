@@ -1,7 +1,6 @@
 
 ### etos-facedetector
 
-- Simple and Effective Face Detector for [ETOS](https://etos.world) ecosystem.
 - Real-Time Rotation-Invariant Face Detection with Progressive Calibration Networks(PCN). 
 
 ### Requirements
